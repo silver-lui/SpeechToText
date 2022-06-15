@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar hello;
+
+public <greet> = (Good morning | Hello) ( luka | gio | samdro | nika | cotne);
